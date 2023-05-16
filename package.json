@@ -2,7 +2,7 @@
   "name": "react-codar",
   "private": true,
   "version": "0.0.0",
-  "homepage": "github-page/",
+  "homepage": "github-page/home",
   "type": "module",
   "scripts": {
     "dev": "vite",
