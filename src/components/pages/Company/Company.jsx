@@ -13,7 +13,7 @@ export default function Company() {
         alcançarem uma gestão financeira eficiente. Com sede em uma cidade global, a Costs
         se destaca como referência em seu campo, ajudando seus clientes a tomar decisões
         informadas e estratégicas para otimizar seus recursos financeiros. Comece a
-        gerenciar os seus projetos agora mesmo!
+        gerenciar os seus projetos agora mesmo!!
       </p>
     </section>
   );
