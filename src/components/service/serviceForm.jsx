@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Input from "../forms/inputs/input";
 import SubmitBtn from "../forms/submitBtn/submitBtn";
-import style from "../projects/projectForm.module.css";
+import style from "../projects/ProjectForm.module.css";
 
 function ServiceForm({ handleSubmit, textBtn, projectData }) {
   const [service, setService] = useState({});
